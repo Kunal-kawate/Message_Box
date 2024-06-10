@@ -52,7 +52,7 @@ smmap==5.0.1
 stone==3.3.1
 streamlit==1.35.0
 streamlit-webrtc==0.47.7
-tenacity==5.1.5
+tenacity==8.1.0
 toml==0.10.2
 toolz==0.12.1
 tornado==6.4.1

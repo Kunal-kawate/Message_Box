@@ -4,12 +4,14 @@ import random
 
 # VS environment path D:\Final_Proejcts\QR_Gen\.venv\Scripts\python.exe -m 
 
-headers = {
-    'authorization' : st.secrets['API_KEY'],
-    'content-type': 'application/json'
-}
+# Use below comment code when you are deploying this application on streamlit cloud commuity.....
+# headers = {
+#     'authorization' : st.secrets['API_KEY'],
+#     'content-type': 'application/json'
+# }
+# TOKEN = headers["authorization"]
 
-TOKEN = headers["authorization"]
+TOKEN = 'your_dropbox_access_token' # write here your dropbox token , if your not getting what is this exactly search on youtube how to create dropbox token
 
 dbx = dropbox.Dropbox(TOKEN) 
 

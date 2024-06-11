@@ -2,7 +2,7 @@
 
 Welcome to MSG_BOX, a Python web application developed using Streamlit and Dropbox. This project allows users to share their thoughts, messages, and stories all on one platform, creating a collective memory and thought-sharing space.
 
-![app screenshot]([path/to/your/image.png](https://github.com/Kunal-kawate/Message_Box/blob/main/ScreenShot.png))
+![app screenshot](https://github.com/Kunal-kawate/Message_Box/blob/main/ScreenShot.png)
 
 ## Features
 
